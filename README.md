@@ -1,2 +1,2 @@
-# Portfolo
+# Portfolio
 Public portfolio of projects
